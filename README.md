@@ -1,7 +1,7 @@
 # elem
 
 # github_page
-[网址](https://ahaoboy.github.io/elem/doc
+[网址](https://ahaoboy.github.io/elem/docs/
  "")
  
 ## Project setup
